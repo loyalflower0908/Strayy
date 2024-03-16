@@ -59,3 +59,7 @@ _____________________________________________________
 Jetpack Compose, Firebase Authentication, Firebase Storage, Firebase FirestoreDB, Naver Map API(Mobile Dynamic Map, Geocoding, Reverse Geocoding), Retrofit2, Flask, Figma
 
 &nbsp;
+
+_____________________________________________________
+### 🕐 개발 소요 시간 🕐
+4일
